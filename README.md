@@ -1,2 +1,2 @@
 # ICOM5015-Artificial_Intelligence
-Contains every prj worked on for the course of AI
+This repository contains all the projects I've worked on during the 2022-2023 spring semester course of Artificial Intelligence.
